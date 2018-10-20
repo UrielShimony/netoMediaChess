@@ -1,4 +1,4 @@
-# netoMediaChess
+# NetoMediaChess
 a simple client-server system that shows possible moves on a chess board
 ##get start:
 first colone or download the files.
